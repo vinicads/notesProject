@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\models\\notemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\models\\notemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\repositorys\\interfaces\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\repositorys\\interfaces\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\repositorys\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\repositorys\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\repositorys\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\repositorys\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\repositorys\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\repositorys\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\views\\noteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\views\\noteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\data\\map\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\data\\map\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\data\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\data\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\data\\map\\notemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\data\\map\\notemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\projetos\\.net\\notesproject\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AE23892-DB4D-4674-A5FE-7B7FC3076636}|api\\api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NoteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Views\\NoteViewModel.cs",
+              "RelativeDocumentMoniker": "api\\Views\\NoteViewModel.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Views\\NoteViewModel.cs",
+              "RelativeToolTip": "api\\Views\\NoteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:13:33.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "api\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:04:52.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Repositorys\\Interfaces\\INoteRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repositorys\\Interfaces\\INoteRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Repositorys\\Interfaces\\INoteRepository.cs",
+              "RelativeToolTip": "api\\Repositorys\\Interfaces\\INoteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:00:33.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Repositorys\\NoteRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repositorys\\NoteRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Repositorys\\NoteRepository.cs",
+              "RelativeToolTip": "api\\Repositorys\\NoteRepository.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwHAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:59:44.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteModel.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Models\\NoteModel.cs",
+              "RelativeDocumentMoniker": "api\\Models\\NoteModel.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Models\\NoteModel.cs",
+              "RelativeToolTip": "api\\Models\\NoteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:04:35.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Repositorys\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repositorys\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Repositorys\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "api\\Repositorys\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:57:53.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Repositorys\\UserRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repositorys\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Repositorys\\UserRepository.cs",
+              "RelativeToolTip": "api\\Repositorys\\UserRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:42:11.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "api\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Models\\UserModel.cs",
+              "RelativeToolTip": "api\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:45:49.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:57:22.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:54:02.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T17:52:03.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Data\\Map\\UserMap.cs",
+              "RelativeDocumentMoniker": "api\\Data\\Map\\UserMap.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Data\\Map\\UserMap.cs",
+              "RelativeToolTip": "api\\Data\\Map\\UserMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:12:39.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotesDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Data\\NotesDBContext.cs",
+              "RelativeDocumentMoniker": "api\\Data\\NotesDBContext.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Data\\NotesDBContext.cs",
+              "RelativeToolTip": "api\\Data\\NotesDBContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:01:50.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NoteMap.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Data\\Map\\NoteMap.cs",
+              "RelativeDocumentMoniker": "api\\Data\\Map\\NoteMap.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Data\\Map\\NoteMap.cs",
+              "RelativeToolTip": "api\\Data\\Map\\NoteMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:14:24.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "api",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\api.csproj",
+              "RelativeDocumentMoniker": "api\\api.csproj",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\api.csproj",
+              "RelativeToolTip": "api\\api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T18:26:56.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "api.csproj",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\api.csproj",
+              "RelativeDocumentMoniker": "api\\api.csproj",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\api.csproj",
+              "RelativeToolTip": "api\\api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T17:31:31.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\.net\\notesProject\\api\\api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABAAAAAAAAAAAABhwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T18:26:37.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
